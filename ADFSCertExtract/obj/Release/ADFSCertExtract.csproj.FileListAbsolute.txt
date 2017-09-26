@@ -1,0 +1,7 @@
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\bin\Release\ADFSCertExtract.exe.config
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\bin\Release\ADFSCertExtract.exe
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\bin\Release\ADFSCertExtract.pdb
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Release\ADFSCertExtract.csproj.CoreCompileInputs.cache
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Release\ADFSCertExtract.exe
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Release\ADFSCertExtract.pdb
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Release\ADFSCertExtract.csprojResolveAssemblyReference.cache

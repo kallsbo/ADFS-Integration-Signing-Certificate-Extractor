@@ -1,0 +1,20 @@
+c:\users\krist_000\documents\visual studio 2013\Projects\ADFSCertExtract\ADFSCertExtract\bin\Debug\ADFSCertExtract.exe.config
+c:\users\krist_000\documents\visual studio 2013\Projects\ADFSCertExtract\ADFSCertExtract\bin\Debug\ADFSCertExtract.exe
+c:\users\krist_000\documents\visual studio 2013\Projects\ADFSCertExtract\ADFSCertExtract\bin\Debug\ADFSCertExtract.pdb
+c:\users\krist_000\documents\visual studio 2013\Projects\ADFSCertExtract\ADFSCertExtract\obj\Debug\ADFSCertExtract.csprojResolveAssemblyReference.cache
+c:\users\krist_000\documents\visual studio 2013\Projects\ADFSCertExtract\ADFSCertExtract\obj\Debug\ADFSCertExtract.exe
+c:\users\krist_000\documents\visual studio 2013\Projects\ADFSCertExtract\ADFSCertExtract\obj\Debug\ADFSCertExtract.pdb
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\bin\Debug\ADFSCertExtract.exe.config
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\bin\Debug\ADFSCertExtract.exe
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\bin\Debug\ADFSCertExtract.pdb
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\bin\Debug\Mono.Options.dll
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Debug\ADFSCertExtract.csprojResolveAssemblyReference.cache
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Debug\ADFSCertExtract.csproj.CoreCompileInputs.cache
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Debug\ADFSCertExtract.exe
+C:\Users\krikal\Documents\Projects\2017-09-18 ADFS cert grab\ADFSCertExtract\ADFSCertExtract\obj\Debug\ADFSCertExtract.pdb
+E:\ADFSCertExtract_code\ADFSCertExtract\bin\Debug\ADFSCertExtract.exe.config
+E:\ADFSCertExtract_code\ADFSCertExtract\obj\Debug\ADFSCertExtract.exe
+E:\ADFSCertExtract_code\ADFSCertExtract\obj\Debug\ADFSCertExtract.pdb
+E:\ADFSCertExtract_code\ADFSCertExtract\bin\Debug\ADFSCertExtract.exe
+E:\ADFSCertExtract_code\ADFSCertExtract\bin\Debug\ADFSCertExtract.pdb
+E:\ADFSCertExtract_code\ADFSCertExtract\obj\Debug\ADFSCertExtract.csprojResolveAssemblyReference.cache
